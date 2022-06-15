@@ -8,7 +8,7 @@
   <b>I'm a software developer who's always wanting to learn more!</b>
 </p>
 
-<img align='right' src="https://raw.githubusercontent.com/fernandaluizp/fernandaluizp/main/img/work.jpg" width="500">
+<img align='right' src="https://raw.githubusercontent.com/fernandaluizp/fernandaluizp/main/img/work.jpg" width="400">
 <br/><br/>
 
 - :woman_technologist: I'm a brazillian Software Developer that's loves learning new skills; 

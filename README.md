@@ -38,7 +38,12 @@
 - TypeScript.
 
 <h2>About my Github</h2>
-https://github-readme-stats.vercel.app/api?username=fernandaluizp
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandaluizp&show_icons=true&count_private=true&hide=contribs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaluizp" />
+</a>
 
 <br>
 <h2> Say Hi!</h2>

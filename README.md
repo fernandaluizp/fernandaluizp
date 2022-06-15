@@ -8,8 +8,8 @@
   <b>I'm a software developer who's always wanting to learn more!</b>
 </p>
 
-<!-- <img align='right' src="https://raw.githubusercontent.com/fernandaluizp/fernandaluizp/main/img/work.jpg" width="400"> -->
-<br>
+<img align='right' src="https://raw.githubusercontent.com/fernandaluizp/fernandaluizp/main/img/work.jpg" width="500">
+<br/><br/><br/>
 
 - I'm a brazillian Software Developer that's loves learning new skills;
 - Started as Frontend Developer but, I'm working as a Full-Stack Developer;
@@ -19,8 +19,9 @@
 - The book I'm currently is Building Microservices, by Sam Newman;
 - Here I'll show what I'm working on, studying and with what I work in my day to day life.
 
+<br/>
+
 <h2>Tech stack</h2>
-<br>
 
 - JavaScript;
 - React.js;
@@ -36,6 +37,7 @@
 - MongoDB;
 - TypeScript.
 
+<br>
 <h2> Say Hi!</h2>
 <p>
   <a href="https://www.linkedin.com/in/fernandalpinto/" target="_blank">Linkedin</a>

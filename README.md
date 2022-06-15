@@ -37,6 +37,9 @@
 - MongoDB;
 - TypeScript.
 
+<h2>About my Github</h2>
+https://github-readme-stats.vercel.app/api?username=fernandaluizp
+
 <br>
 <h2> Say Hi!</h2>
 <p>

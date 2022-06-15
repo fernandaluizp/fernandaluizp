@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  Hi, I'm Fernanda Luiz Pinto
+  Hi, I'm Fernanda Luiz Pinto :wave:	
 </h1>
 
 <!-- Counter -->
@@ -9,14 +9,14 @@
 </p>
 
 <img align='right' src="https://raw.githubusercontent.com/fernandaluizp/fernandaluizp/main/img/work.jpg" width="500">
-<br/><br/><br/>
+<br/><br/>
 
-- I'm a brazillian Software Developer that's loves learning new skills;
-- Started as Frontend Developer but, I'm working as a Full-Stack Developer;
-- Currently working at Globo as a Sofware Developer using technologies such as React.js and Ruby on Rails;
-- I have a Bachelor degree in Information Systems from Federal University of Rio Grande (FURG);
-- I'm currently studying Software Architecture and TypeScript;
-- The book I'm currently is Building Microservices, by Sam Newman;
+- :woman_technologist: I'm a brazillian Software Developer that's loves learning new skills; 
+- :computer: Started as Frontend Developer but, I'm working as a Full-Stack Developer;
+- :globe_with_meridians: Currently working at Globo as a Sofware Developer using technologies such as React.js and Ruby on Rails;
+- :woman_student: I have a Bachelor degree in Information Systems from Federal University of Rio Grande (FURG);
+- :book: I'm currently studying Software Architecture and TypeScript;
+- :books: The book I'm currently is Building Microservices, by Sam Newman;
 - Here I'll show what I'm working on, studying and with what I work in my day to day life.
 
 <br/>

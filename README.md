@@ -16,7 +16,7 @@
 - :globe_with_meridians: Currently working at Globo as a Sofware Developer using technologies such as React.js and Ruby on Rails;
 - :woman_student: I have a Bachelor degree in Information Systems from Federal University of Rio Grande (FURG);
 - :book: I'm currently studying Software Architecture and TypeScript;
-- :books: The book I'm currently is Building Microservices, by Sam Newman;
+- :books: The book I'm currently reading is Building Microservices, by Sam Newman;
 - Here I'll show what I'm working on, studying and with what I work in my day to day life.
 
 <br/>

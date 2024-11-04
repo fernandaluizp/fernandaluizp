@@ -13,10 +13,9 @@
 
 - I'm a brazillian Software Developer that's loves learning new skills;
 - Started as Frontend Developer but, I'm working as a Full-Stack Developer;
-- Currently working at Globo as a Sofware Developer using technologies such as React.js and Ruby on Rails;
+- Currently working at Globo as a Sofware Engineer using technologies such as React.js and Node.js;
 - I have a Bachelor degree in Information Systems from Federal University of Rio Grande (FURG);
 - I'm currently studying Software Architecture and TypeScript;
-- The book I'm currently is Building Microservices, by Sam Newman;
 - Here I'll show what I'm working on, studying and with what I work in my day to day life.
 
 <h2>Tech stack</h2>
@@ -24,15 +23,16 @@
 
 - JavaScript;
 - React.js;
-- Ruby on Rails;
+- Node.js
 - Sass/CSS3;
 - HTML5;
 - Webpack;
 - CI/CD;
 - RestApi;
+- GraphQL
 - Testing Library;
-- Git and Github;
 - Redux;
+- Ruby on Rails;
 - MongoDB;
 - TypeScript.
 
